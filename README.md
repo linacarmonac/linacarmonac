@@ -1,3 +1,2 @@
 ### Hi 👋
-I studied Materials Engineering ✨ and I have 4+ years of experience in metals processing. 
-I’m currently learning Data Science to help businesses make better decisions and improve processes. :chart_with_upwards_trend:
+I am a Data Engineering ✨ and have 3+ years of experience in data processing. I am always continuously pursuing personal and professional growth.
